@@ -1,5 +1,5 @@
-# quakesingleplayermap
+# Marma
 
-A singleplayer map for the original Quake.
+A competitive multiplayer map for 2 - 4 players for the original Quake.
 
-See the project [wiki](https://github.com/sramirez124/quakesingleplayerlevel/wiki) for more infomation.
+See the project [wiki](https://github.com/sramirez124/quakemultiplayerlevel/wiki) for more infomation.
