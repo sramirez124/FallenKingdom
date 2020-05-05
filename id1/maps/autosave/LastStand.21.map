@@ -1626,8 +1626,3 @@
 ( 2304 464 64 ) ( 2304 464 65 ) ( 2304 465 64 ) 64_blue_1 0 0 0 1 1
 }
 }
-// entity 1
-{
-"classname" "info_player_start"
-"origin" "48 -848 24"
-}
