@@ -8,8 +8,8 @@ BSP is version 29
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	562 sky faces
-	3182 solid faces
+	592 sky faces
+	3205 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -25,7 +25,7 @@ Lighting Completed.
 lightdatasize: 0
 0 switchable light styles (32 max)
 Writing LastStand.bsp as BSP version 29
-0.178 seconds elapsed
+0.188 seconds elapsed
 
 stats:
 0.000000 lights tested, 0.000000 hits per sample point
