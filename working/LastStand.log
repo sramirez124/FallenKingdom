@@ -4,14 +4,15 @@ Output file: LastStand.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         1186 faces
-          199 brushes
+         1246 faces
+          209 brushes
             7 entities
-            8 unique texnames
-          137 texinfo
+           12 unique texnames
+          156 texinfo
 
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/start/START.WAD
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/prototype_1_2.wad
+Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/hipnotic.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
           195 brushes
@@ -19,7 +20,7 @@ Processing hull 0...
 ---- CSGFaces ----
          1162 brushfaces
          1018 csgfaces
-          877 mergedfaces
+          878 mergedfaces
 ---- SolidBSP ----
          1581 split nodes
           561 solid leafs
@@ -29,8 +30,8 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         4040 leaffaces
-         3881 nodefaces
+         4041 leaffaces
+         3882 nodefaces
 ---- Portalize ----
          1021 vis leafs
          1021 vis clusters
@@ -47,19 +48,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote LastStand.bsp
           418 planes             8360
-         4319 vertexes          51828
+         4339 vertexes          52068
          1605 nodes             38520
-          121 texinfo            4840
-         3905 faces             78100
+          139 texinfo            5560
+         3916 faces             78320
          2386 clipnodes         19088
          1046 leafs             29288
-         4064 marksurfaces       8128
-        15615 surfedges         62460
-         9912 edges             39648
-            8 textures         177124
+         4075 marksurfaces       8150
+        15659 surfedges         62636
+         9945 edges             39780
+           12 textures         199060
               lightdata             0
               visdata               0
-              entdata             523
+              entdata             594
 
-0.291 seconds elapsed
-Peak memory usage: 15965540 (15.2M)
+0.245 seconds elapsed
+Peak memory usage: 16013818 (15.3M)
