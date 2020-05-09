@@ -4,30 +4,31 @@ running with 12 threads
 LoadBSPFile: 'LastStand.bsp'
 BSP is version 29
 --- LoadEntities ---
-7 entities read, 0 are lights.
+30 entities read, 19 are lights.
 --- OptionsSummary ---
+    "light" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	774 sky faces
-	4664 solid faces
+	848 sky faces
+	5837 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 19 initial lights
+SetupLights: 19 after surface lights
+SetupLights: 19 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9..
+Final count: 19 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 20210
 0 switchable light styles (32 max)
 Writing LastStand.bsp as BSP version 29
-0.234 seconds elapsed
+0.294 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+0.171046 lights tested, 0.080222 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

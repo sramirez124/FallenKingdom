@@ -23,7 +23,6 @@ C:\Users\Steve\Documents\GitHub\quakesingleplayermap\tools\ericw-tools\bin\light
 copy LastStand.bsp C:\Users\Steve\Documents\GitHub\quakesingleplayermap\id1\maps
 copy LastStand.pts C:\Users\Steve\Documents\GitHub\quakesingleplayermap\id1\maps
 copy LastStand.lit C:\Users\Steve\Documents\GitHub\quakesingleplayermap\id1\maps
-pause
 cd\
 cd C:\Users\Steve\Documents\GitHub\quakesingleplayermap
 quakespasm  +map LastStand
