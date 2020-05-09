@@ -4,11 +4,11 @@ Output file: LastStand.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         3214 faces
-          532 brushes
-           30 entities
-           48 unique texnames
-          645 texinfo
+         3520 faces
+          583 brushes
+           69 entities
+           61 unique texnames
+          707 texinfo
 
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/start/START.WAD
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/prototype_1_2.wad
@@ -17,51 +17,51 @@ Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/id1.wad
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/rogue.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          527 brushes
-          428 planes
+          567 brushes
+          441 planes
 ---- CSGFaces ----
-         3184 brushfaces
-         2451 csgfaces
-         2118 mergedfaces
+         3424 brushfaces
+         2643 csgfaces
+         2278 mergedfaces
 ---- SolidBSP ----
-         3204 split nodes
-         1200 solid leafs
-         1787 empty leafs
-          218 water leafs
+         3351 split nodes
+         1277 solid leafs
+         1863 empty leafs
+          212 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7241 leaffaces
-         6899 nodefaces
+         7531 leaffaces
+         7130 nodefaces
 ---- Portalize ----
-         2005 vis leafs
-         2005 vis clusters
-         5899 vis portals
+         2075 vis leafs
+         2075 vis clusters
+         6015 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (1880 -1016 104), no filling performed.
+*** WARNING 10: Reached occupant at (2440 136 168), no filling performed.
 Leak file written to LastStand.pts
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
-*** WARNING 10: Reached occupant at (1880 -1016 104), no filling performed.
+*** WARNING 10: Reached occupant at (2440 136 168), no filling performed.
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote LastStand.bsp
-          861 planes            17220
-         7840 vertexes          94080
-         3234 nodes             77616
-          563 texinfo           22520
-         6929 faces            138580
-         3457 clipnodes         27656
-         2036 leafs             57008
-         7271 marksurfaces      14542
-        27560 surfedges        110240
-        17694 edges             70776
-           48 textures         744676
+          870 planes            17400
+         8226 vertexes          98712
+         3447 nodes             82728
+          618 texinfo           24720
+         7226 faces            144520
+         3887 clipnodes         31096
+         2172 leafs             60816
+         7627 marksurfaces      15254
+        28744 surfedges        114976
+        18504 edges             74016
+           63 textures         862296
               lightdata             0
               visdata               0
-              entdata            2229
+              entdata            4875
 
-0.447 seconds elapsed
-Peak memory usage: 30064526 (28.7M)
+0.469 seconds elapsed
+Peak memory usage: 31970574 (30.5M)
