@@ -4,35 +4,43 @@ running with 12 threads
 LoadBSPFile: 'LastStand.bsp'
 BSP is version 29
 --- LoadEntities ---
-WARNING: brush entity with mins (1761.00 -255.00 129) maxs (1775.00 -193.00 255) (func_door) has empty key/value "target" ""
-WARNING: brush entity with mins (1761.00 -191.00 129) maxs (1775.00 -129.00 255) (func_door) has empty key/value "target" ""
-WARNING: entity at (1632 -304 296) (monster_demon1) has empty key/value "target" ""
+WARNING: entity at () (worldspawn) has empty key/value "message" ""
+WARNING: entity at (1744 -320 296) (monster_demon1) has empty key/value "target" ""
 WARNING: brush entity with mins (577.00 -479.00 1.00) maxs (591.00 -417.00 111.) (trigger_once) has empty key/value "targetname" ""
-69 entities read, 36 are lights.
+WARNING: entity at (2168 -1240 104) (light) has empty key/value "angle" ""
+WARNING: entity at (1824 -272 184) (monster_demon1) has empty key/value "target" ""
+WARNING: brush entity with mins (2177.00 625.00 97.0) maxs (2239.00 639.00 287.) (func_door) has empty key/value "angle" ""
+WARNING: brush entity with mins (1761.00 -191.00 129) maxs (1775.00 -129.00 255) (func_door) has empty key/value "target" ""
+WARNING: brush entity with mins (1761.00 -255.00 129) maxs (1775.00 -193.00 255) (func_door) has empty key/value "target" ""
+WARNING: couldn't parse '' as number for key 'angle'
+WARNING: couldn't parse 'a' as number for key 'light'
+WARNING: couldn't parse 'a' as number for key 'light'
+WARNING: couldn't parse 'a' as number for key 'light'
+154 entities read, 85 are lights.
 --- OptionsSummary ---
     "light" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	848 sky faces
-	6086 solid faces
+	906 sky faces
+	6957 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 36 initial lights
-SetupLights: 36 after surface lights
-SetupLights: 36 after jittering
+SetupLights: 85 initial lights
+SetupLights: 85 after surface lights
+SetupLights: 85 after jittering
 --- EstimateLightVisibility ---
-0....1....2....3....4....5....6....7....8....9...
-Final count: 36 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 85 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 49142
+lightdatasize: 95625
 0 switchable light styles (32 max)
 Writing LastStand.bsp as BSP version 29
-0.278 seconds elapsed
+0.340 seconds elapsed
 
 stats:
-0.319619 lights tested, 0.179589 hits per sample point
+0.772740 lights tested, 0.403844 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
