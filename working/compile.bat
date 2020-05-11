@@ -13,12 +13,15 @@ echo Converting map...
 
 echo --------------QBSP--------------
 C:\Users\Steve\Documents\GitHub\quakesingleplayermap\tools\ericw-tools\bin\qbsp.exe LastStand
+pause
 
 echo --------------VIS---------------
 C:\Users\Steve\Documents\GitHub\quakesingleplayermap\tools\ericw-tools\bin\vis.exe LastStand
+pause
 
 echo -------------LIGHT--------------
 C:\Users\Steve\Documents\GitHub\quakesingleplayermap\tools\ericw-tools\bin\light.exe LastStand
+pause
 
 copy LastStand.bsp C:\Users\Steve\Documents\GitHub\quakesingleplayermap\id1\maps
 copy LastStand.pts C:\Users\Steve\Documents\GitHub\quakesingleplayermap\id1\maps

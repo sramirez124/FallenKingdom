@@ -1,0 +1,10 @@
+Command line: C:\Users\Steve\Documents\GitHub\quakesingleplayermap\quakespasm-0.93.2_win64\quakespasm-sdl12.exe
+Found SDL version 1.2.16
+Detected 12 CPUs.
+Quake 1.09 (c) id Software
+GLQuake 1.00 (c) id Software
+FitzQuake 0.85 (c) John Fitzgibbons
+FitzQuake SDL port (c) SleepwalkR, Baker
+QuakeSpasm 0.93.2 (c) Ozkan Sezer, Eric Wasylishen & others
+Host_Init
+Playing shareware version.
