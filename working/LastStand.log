@@ -4,38 +4,38 @@ Output file: LastStand.bsp
 
 ---- LoadMapFile ----
 *** WARNING 06: No info_player_deathmatch entities in level
-         4853 faces
-          805 brushes
-          170 entities
-           67 unique texnames
-          839 texinfo
+         5123 faces
+          850 brushes
+          169 entities
+           69 unique texnames
+          866 texinfo
 
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/hipnotic.wad
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/id1.wad
 Opened WAD: C:/Users/Steve/Documents/GitHub/quakesingleplayermap/wads/rogue.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          780 brushes
-          507 planes
+          825 brushes
+          529 planes
 ---- CSGFaces ----
-         4703 brushfaces
-         3545 csgfaces
-         2931 mergedfaces
+         4973 brushfaces
+         3691 csgfaces
+         3035 mergedfaces
 ---- SolidBSP ----
-         4128 split nodes
-         1656 solid leafs
-         2249 empty leafs
-          224 water leafs
+         4244 split nodes
+         1702 solid leafs
+         2320 empty leafs
+          223 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         8414 leaffaces
-         7983 nodefaces
+         8624 leaffaces
+         8172 nodefaces
 ---- Portalize ----
-         2473 vis leafs
-         2473 vis clusters
-         7236 vis portals
+         2543 vis leafs
+         2543 vis clusters
+         7455 vis portals
 ---- FillOutside ----
 *** WARNING 10: Reached occupant at (440 136 168), no filling performed.
 Leak file written to LastStand.pts
@@ -49,20 +49,20 @@ Processing hull 2...
 *** WARNING 16: Texture 128_blue_3 not found
 ---- WriteBSPFile ----
 Wrote LastStand.bsp
-          944 planes            18880
-         9454 vertexes         113448
-         4272 nodes            102528
-          725 texinfo           29000
-         8140 faces            162800
-         5922 clipnodes         47376
-         2618 leafs             73304
-         8571 marksurfaces      17142
-        32418 surfedges        129672
-        20856 edges             83424
-           72 textures         812292
+          993 planes            19860
+         9691 vertexes         116292
+         4388 nodes            105312
+          748 texinfo           29920
+         8329 faces            166580
+         6061 clipnodes         48488
+         2688 leafs             75264
+         8781 marksurfaces      17562
+        33171 surfedges        132684
+        21335 edges             85340
+           74 textures         823260
               lightdata             0
               visdata               0
-              entdata           11552
+              entdata           11492
 
-0.581 seconds elapsed
-Peak memory usage: 39017130 (37.2M)
+0.612 seconds elapsed
+Peak memory usage: 40170730 (38.3M)

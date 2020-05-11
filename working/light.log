@@ -14,13 +14,13 @@ WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse 'a' as number for key 'light'
 WARNING: couldn't parse 'a' as number for key 'light'
 WARNING: couldn't parse 'a' as number for key 'light'
-170 entities read, 87 are lights.
+169 entities read, 87 are lights.
 --- OptionsSummary ---
     "light" was set to "0.000000" from map
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
-	908 sky faces
-	6963 solid faces
+	900 sky faces
+	7158 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 87 initial lights
@@ -33,12 +33,12 @@ Final count: 87 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 97901
+lightdatasize: 98688
 0 switchable light styles (32 max)
 Writing LastStand.bsp as BSP version 29
-0.320 seconds elapsed
+0.334 seconds elapsed
 
 stats:
-0.920273 lights tested, 0.512438 hits per sample point
+0.928253 lights tested, 0.515099 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
